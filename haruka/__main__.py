@@ -26,6 +26,7 @@ Click Help button to find out more about how to use me to my full potential.
 
 Join My Channel [LEARNING ZONE](http://t.me/CLASS101112HW).
 
+My pro owner = [VILLAIN](http://t.me/@THESANSKARI_LADKA).
 
 Want to add me to your group? Click here! [Click Here](http://t.me/SpiderMan_ProBot?startgroup=true)
 """
