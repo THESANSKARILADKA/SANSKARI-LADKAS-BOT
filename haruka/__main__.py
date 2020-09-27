@@ -20,13 +20,12 @@ from haruka.modules.helper_funcs.misc import paginate_modules
 from haruka.modules.translations.strings import tld, tld_help 
 from haruka.modules.connection import connected
 
-PM_START = """Hey there! My name is {} - I'm here to help you manage your groups!
+PM_START = """Hey there! My name is {LEARNING ZONES MANAGER} - I'm here to help you manage your groups!
 
 Click Help button to find out more about how to use me to my full potential.
 
-Join My Support Group [Nancy Momoland Bot Support](http://t.me/Nancy_Momoland_support_group) if you need any support or help.
+Join My Channel [LEARNING ZONE](http://t.me/CLASS101112HW).
 
-Don't Forget To CheckOut [SpiderMan](http://t.me/Spiderman_ProBot) 
 
 Want to add me to your group? Click here! [Click Here](http://t.me/SpiderMan_ProBot?startgroup=true)
 """
